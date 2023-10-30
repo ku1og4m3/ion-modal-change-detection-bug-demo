@@ -1,0 +1,7 @@
+{
+  "name": "ion-modal-change-detection-bug-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
